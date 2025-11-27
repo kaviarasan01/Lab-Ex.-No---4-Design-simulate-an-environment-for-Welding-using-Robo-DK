@@ -1,4 +1,4 @@
-# Lab-Ex.-No---6-Design-simulate-an-environment-for-Welding-using-Robo-DK
+# Lab-Ex.-No---4-Design-simulate-an-environment-for-Welding-using-Robo-DK
 
 
  
@@ -95,5 +95,11 @@ risk of interfering with the robot.
 
 
 ### Results of simulation 
+<img width="483" height="487" alt="image" src="https://github.com/user-attachments/assets/a6500664-3957-4bd2-8512-2f53a420a567" />
 
+<img width="485" height="242" alt="image" src="https://github.com/user-attachments/assets/4dbce9e4-164d-40af-b49c-8bbd3291ab82" />
+
+
+### Result 
+An environment for welding operation using robodk is Designed & simulated.
 
